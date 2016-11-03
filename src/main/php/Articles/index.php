@@ -1,5 +1,5 @@
 <?php
-echo '<link rel="stylesheet" type="text/css" href="../../css/main.css">';
+echo '<link rel="stylesheet" type="text/css" href="css/listview.css">';
 
 $articles = [
 	0 => [
